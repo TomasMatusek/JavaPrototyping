@@ -1,6 +1,5 @@
-# JavaPrototyping
-Binary shift operation
-Stack, Heap
+# JPMS - Java Platform Module System
+https://github.com/mohamed-taman/Java-SE-Code-Examples
 
 # End
 OCA-808.pdf
